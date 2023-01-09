@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning Computer Science and Engineering at Instituto Superior Técnico and aim to enroll in a Master's degree
 - 📫 How to reach me https://www.linkedin.com/in/pedrodiasrodrigues/
 <br/>
-
 [![Pedro Dias Rodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDRodrigues&show_icons=true&theme=transparent)](https://github.com/PedroDRodrigues/github-readme-stats)
-
 <br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDRodrigues&theme=transparent)](https://github.com/PedroDRodrigues/github-readme-stats)
-
