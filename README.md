@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro Dias Rodrigues
 - 👀 I’m interested in Java, Python, C# and C++ 
-- 🌱 I’m currently learning Computer Science and Engineering at Instituto Superior Técnico and aim to enroll in a Master's degree
+- 🌱 I’m taking a master degree in Computer Science and Engineering at Instituto Superior Técnico
 - 📫 How to reach me https://www.linkedin.com/in/pedrodiasrodrigues/
 
 <br/>
